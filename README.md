@@ -1,2 +1,2 @@
 # sample-repo
-GITチュートリアル
+GIT update
